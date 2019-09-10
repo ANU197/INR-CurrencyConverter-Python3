@@ -1,6 +1,7 @@
 # INR-CurrencyConverter
 
-In these tutorials, we will learn to build some simple but useful INR to Currency Converter.
+In this tutorials, we will learn to build some simple but useful INR to Currency Converter Using Python3.
+In this we see the Real example of [Python Dictionary.](https://docs.python.org/3/tutorial/datastructures.html)
 
 
 **Learning from code,**
