@@ -7,7 +7,7 @@ with open("exchangeprice.txt") as f:
         currencyDict[parsed[0]] = float(parsed[1])
 
 
-INR = float(input("Enter Amount:"))
+INR = float(input("Enter Amount(INR):"))
 print('\n')
 print('Enter the name of the currency you want to convert amount to? Available options:\n')
 for item in currencyDict.keys():
