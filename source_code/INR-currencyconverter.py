@@ -1,4 +1,4 @@
-with open("/home/apdebian/Desktop/python3/exchangeprice.txt") as f:
+with open("exchangeprice.txt") as f:
     fl = []
     fl = f.readlines()
     currencyDict = {}
